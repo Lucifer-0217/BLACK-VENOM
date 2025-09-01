@@ -1,0 +1,10 @@
+[
+    {
+        "url": "http://testphp.vulnweb.com/admin/",
+        "status": 200
+    },
+    {
+        "url": "http://testphp.vulnweb.com/login.php",
+        "status": 200
+    }
+]

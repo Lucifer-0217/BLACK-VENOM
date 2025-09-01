@@ -1,0 +1,3 @@
+URL: http://testphp.vulnweb.com/
+Server: nginx/1.19.0
+WAF: None Detected

@@ -1,0 +1,85 @@
+Folder PATH listing for volume OS
+Volume serial number is 2E60-A0E8
+C:.
+¦   requirements.txt
+¦   structure
+¦   structure.txt
+¦   venom.py
+¦   
++---core
+¦   ¦   banner.py
+¦   ¦   config.py
+¦   ¦   logger.py
+¦   ¦   utils.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---wordlists
+¦   ¦       subdomains.txt
+¦   ¦       
+¦   +---__pycache__
+¦           banner.cpython-311.pyc
+¦           config.cpython-311.pyc
+¦           logger.cpython-311.pyc
+¦           utils.cpython-311.pyc
+¦           __init__.cpython-311.pyc
+¦           
++---logs
+¦   ¦   cursed_paths.txt
+¦   ¦   headers.txt
+¦   ¦   Subdomain Scan_20250727_014000.txt
+¦   ¦   Subdomain Scan_20250727_014332.txt
+¦   ¦   Subdomain Scan_20250727_014727.txt
+¦   ¦   Subdomain Scan_20250727_015710.txt
+¦   ¦   Subdomain Scan_20250727_020114.txt
+¦   ¦   Subdomain Scan_20250727_021615.txt
+¦   ¦   Subdomain Scan_20250727_142905.txt
+¦   ¦   WAF Detection_20250727_020711.txt
+¦   ¦   
+¦   +---phase3
+¦           exploit_scan.json
+¦           shell_detector.json
+¦           tech_fingerprint.json
+¦           xmode_results.json
+¦           
++---modules
+    ¦   cursed_recon.py
+    ¦   header_grabber.py
+    ¦   ip_location.py
+    ¦   osint_scan.py
+    ¦   robots_sitemap.py
+    ¦   scan_port.py
+    ¦   subdomain_finder.py
+    ¦   traceroute.py
+    ¦   whois_lookup.py
+    ¦   __init__.py
+    ¦   
+    +---phase3
+    ¦   ¦   exploit_scanner.py
+    ¦   ¦   shell_detector.py
+    ¦   ¦   tech_fingerprint.py
+    ¦   ¦   xmode_crawler.py
+    ¦   ¦   
+    ¦   +---__pycache__
+    ¦           exploit_scanner.cpython-311.pyc
+    ¦           shell_detector.cpython-311.pyc
+    ¦           tech_fingerprint.cpython-311.pyc
+    ¦           xmode_crawler.cpython-311.pyc
+    ¦           
+    +---phase3_upgrade
+    ¦   ¦   recon_x.py
+    ¦   ¦   
+    ¦   +---__pycache__
+    ¦           recon_x.cpython-311.pyc
+    ¦           
+    +---__pycache__
+            cursed_recon.cpython-311.pyc
+            header_grabber.cpython-311.pyc
+            ip_location.cpython-311.pyc
+            osint_scan.cpython-311.pyc
+            robots_sitemap.cpython-311.pyc
+            scan_port.cpython-311.pyc
+            subdomain_finder.cpython-311.pyc
+            traceroute.cpython-311.pyc
+            whois_lookup.cpython-311.pyc
+            __init__.cpython-311.pyc
+            

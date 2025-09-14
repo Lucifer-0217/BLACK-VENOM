@@ -5,7 +5,7 @@
 ---
 
 > ⚠️ **Legal & Ethical Notice:** Use BLACK-VENOM **only** on systems and networks you own or where you have explicit written authorization to test. Unauthorized scanning, probing, or exploitation is unlawful and unethical.
->
+
 > Lucifer-0217 and the BLACK-VENOM maintainers are not responsible for any unauthorized use of this toolkit.
 
 ---
@@ -47,24 +47,24 @@
 
 1. Verify Python:
 
-    ```bash
-    python3 --version
-    ```
+```bash
+python3 --version
+```
 
 2. Clone the repository:
 
-    ```bash
-    git clone https://github.com/Lucifer-0217/BLACK-VENOM.git
-    cd BLACK-VENOM
-    ```
+```bash
+git clone https://github.com/Lucifer-0217/BLACK-VENOM.git
+cd BLACK-VENOM
+```
 
 3. Install dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    # or, if your environment requires it:
-    # pip3 install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+# or, if your environment requires it:
+# pip3 install -r requirements.txt
+```
 
 ---
 

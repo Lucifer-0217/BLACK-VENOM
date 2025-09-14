@@ -1,0 +1,11 @@
+www
+mail
+admin
+dev
+test
+staging
+beta
+api
+vpn
+blog
+webmail

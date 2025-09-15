@@ -96,4 +96,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Author:**
 
-> **Disclaimer:** The author(s) of BLACK-VENOM (including Lucifer-0217 / Venom) are not responsible for any unauthorized or illegal use of this toolkit. [Lucifer-0217](https://github.com/Lucifer-0217)
+> **Disclaimer:** The author of BLACK-VENOM "Lucifer-0217" and "BLACK-VENOM" tool is not responsible for any unauthorized or illegal use of this toolkit. [Lucifer-0217](https://github.com/Lucifer-0217)

@@ -66,6 +66,20 @@ pip install -r requirements.txt
 # pip3 install -r requirements.txt
 ```
 
+4. Create the logs directory and phase subdirectories:
+
+```bash
+cd BLACK-VENOM
+
+mkdir logs
+
+cd logs
+
+mkdir phase3 phase4 phase5
+
+cd ..
+```
+
 ---
 
 ## ⚡ Usage
